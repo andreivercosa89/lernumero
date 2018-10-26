@@ -10,6 +10,7 @@ namespace lernumero
         {
             numero = valor;
         }
+
         public int getValor()
         {
             return numero;

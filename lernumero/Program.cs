@@ -8,12 +8,12 @@ namespace lernumero
         {
 
             Console.WriteLine("Informe um numero: ");
-            Calcular numero = new Calcular();
+            Calcular calculo = new Calcular();
 
-            numero.definiNumero(Int32.Parse(Console.ReadLine()));
+            calculo.definiNumero(Int32.Parse(Console.ReadLine()));
 
 
-            Console.WriteLine("Valor: " + (numero.antecessor()+1) + "\nAntecessor: " + numero.antecessor() + "\nSucessor: " + numero.sucessor());
+            Console.WriteLine("Valor: " + calculo.getValor() + "\nAntecessor: " + calculo.antecessor() + "\nSucessor: " + calculo.sucessor());
         }
     }
 }
