@@ -1,0 +1,11 @@
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.csprojAssemblyReference.cache
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.AssemblyInfoInputs.cache
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.AssemblyInfo.cs
+/Users/aluno/Projects/lernumero/lernumero/bin/Debug/netcoreapp2.1/lernumero.deps.json
+/Users/aluno/Projects/lernumero/lernumero/bin/Debug/netcoreapp2.1/lernumero.runtimeconfig.json
+/Users/aluno/Projects/lernumero/lernumero/bin/Debug/netcoreapp2.1/lernumero.runtimeconfig.dev.json
+/Users/aluno/Projects/lernumero/lernumero/bin/Debug/netcoreapp2.1/lernumero.dll
+/Users/aluno/Projects/lernumero/lernumero/bin/Debug/netcoreapp2.1/lernumero.pdb
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.dll
+/Users/aluno/Projects/lernumero/lernumero/obj/Debug/netcoreapp2.1/lernumero.pdb

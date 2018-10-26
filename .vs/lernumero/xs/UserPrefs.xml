@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F299CCDA-D57B-4D7F-B211-46D84EA837C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lernumero/Calcular.cs">
+    <Files>
+      <File FileName="lernumero/Program.cs" Line="17" Column="74" />
+      <File FileName="lernumero/Calcular.cs" Line="26" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lernumero PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
