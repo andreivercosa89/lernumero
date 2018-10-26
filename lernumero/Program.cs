@@ -6,14 +6,14 @@ namespace lernumero
     {
         static void Main(string[] args)
         {
-            int valorDigitado;
+
             Console.WriteLine("Informe um numero: ");
-            Calcular calcular = new Calcular();
+            Calcular numero = new Calcular();
 
-            calcular.definiNumero(Int32.Parse(Console.ReadLine()));
+            numero.definiNumero(Int32.Parse(Console.ReadLine()));
 
 
-            Console.WriteLine("Antecessor: " + calcular.antecessor() + "\nSucessor: " + calcular.sucessor());
+            Console.WriteLine("Valor: " + (numero.antecessor()+1) + "\nAntecessor: " + numero.antecessor() + "\nSucessor: " + numero.sucessor());
         }
     }
 }
